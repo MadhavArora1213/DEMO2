@@ -48,5 +48,6 @@ static int sum(int a){
 
         int result = sum(10);
         System.out.println(result);
+    
     }
 }
